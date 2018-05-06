@@ -1,0 +1,6 @@
+     General model:
+     ans(x) = a*exp(-x/b)+c
+     Coefficients (with 95% confidence bounds):
+       a =       496.7  (495.5, 497.9)
+       b =       2.153  (2.139, 2.167)
+       c =      -4.106  (-5.344, -2.869)

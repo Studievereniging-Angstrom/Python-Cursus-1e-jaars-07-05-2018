@@ -1,0 +1,3 @@
+slinger 1, slinger 2: 1 bevat nog onzin, 2 alleen slinger
+druk 1, 2: normale druk metingen, onzekerheid 0,5-1m 
+druk 3: begane grond naar buiten -> binnen -> lift in -> 2e verdieping

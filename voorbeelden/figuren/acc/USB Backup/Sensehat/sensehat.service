@@ -1,0 +1,11 @@
+[Unit]
+Description=Sensehat service
+After=multi-user.target
+
+[Service]
+Type=simple
+ExecStart=/usr/bin/python3 /media/pi/DATA/Sensehat/sensehat.py
+Restart=on-abort
+
+[Install]
+WantedBy=multi-user.target

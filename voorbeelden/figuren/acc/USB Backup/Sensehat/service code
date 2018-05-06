@@ -1,0 +1,21 @@
+Activate the service:
+
+sudo chmod 644 /lib/systemd/system/sensehat.service
+chmod +x /media/pi/DATA/Sensehat/sensehat.py
+sudo systemctl daemon-reload
+sudo systemctl enable sensehat.service
+sudo systemctl start sensehat.service
+
+More commands:
+
+# Check status
+sudo systemctl status sensehat.service
+ 
+# Start service
+sudo systemctl start sensehat.service
+ 
+# Stop service
+sudo systemctl stop sensehat.service
+ 
+# Check service's log
+sudo journalctl -f -u sensehat.service

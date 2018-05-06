@@ -1,0 +1,3 @@
+PMT: 1250 V
+Threshold: 100 mV
+Runtime:  3d 19u
