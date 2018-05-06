@@ -8,3 +8,6 @@ De overige bestanden en mappen dienen als werkomgeving.
 Het doel van de cursus is om te begrijpen hoe het volgende figuur tot stand komt.
 ![alt text](deeltjesfysica/figuren/bindingsenergie_per_nucleon.png)
 Tot slot zullen er voorbeelden behandeld worden voor het gebruik van Python in de opleiding.
+
+## Jupyter Notebook
+Voor de installatie van Jupyter Notebook zie [link](http://jupyter.readthedocs.io/en/latest/install.html). Kortweg voor Windows, open cmd en typ ```pip3 install jupyter```.
