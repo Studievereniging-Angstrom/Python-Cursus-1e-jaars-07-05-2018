@@ -5,6 +5,6 @@ De deeltjesfysica code is [hier](deeltjesfysica\deeltjesfysica.ipynb) in de vorm
 De overige bestanden en mappen dienen als werkomgeving.
 
 ## Doel
-Het doel van de cursus is om te begrijpen hoe het volgende figuur gemaakt kan worden:
-![alt text](deeltjesfysica/bindingsenergie_per_nucleon.png)
+Het doel van de cursus is om te begrijpen hoe het volgende figuur tot stand komt.
+![alt text](deeltjesfysica/figuren/bindingsenergie_per_nucleon.png)
 Tot slot zullen er voorbeelden behandeld worden voor het gebruik van Python in de opleiding.
