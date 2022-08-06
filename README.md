@@ -9,6 +9,12 @@ Het doel van de cursus is om te begrijpen hoe het volgende figuur tot stand komt
 ![alt text](deeltjesfysica/figuren/bindingsenergie_per_nucleon.png)
 Tot slot zullen er voorbeelden behandeld worden voor het gebruik van Python in de opleiding.
 
-## Jupyter Notebook
-Voor de installatie van Jupyter Notebook zie [link](http://jupyter.readthedocs.io/en/latest/install.html). 
-Kortweg voor Windows, open cmd en typ ```pip3 install jupyter```.
+## Gebruik
+Alle bestanden uit deze repository kunnen uitgevoerd worden met bibliotheken installeerbaar via pip.
+Gelukkig is pip standaard geinstalleerd wanneer je Python geinstalleerd hebt, heb je dit nog niet kijk dan [hier](https://www.python.org/) voor hulp bij installeren.
+
+Heb je Python al wel geinstalleerd, dan is het enige wat je hoeft te doen:
+- Deze repository downloaden.
+- Navigeer in CMD naar de map van de repository.
+- Voer in: ```python pip3 install -r requirements.txt```
+- voer ```python jupyter``` in om een jupyter notebook te starten.
